@@ -10,4 +10,4 @@ To run LDA, please follow these steps:
    b. csv 
    (Ref: https://docs.python.org/2/library/csv.html)
 2. Close and Reopen Command Prompt/Terminal
-3. python to/current/folder/of/csm_lda.py
+3. python to/current/folder/of/assignment5.py
